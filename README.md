@@ -1,2 +1,1 @@
-# simple-ATM-machine
-My 2nd project. 
+My project's with C and C++ 
